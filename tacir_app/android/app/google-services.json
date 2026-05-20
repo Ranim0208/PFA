@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273060984817",
+    "project_id": "tacirapp",
+    "storage_bucket": "tacirapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273060984817:android:0724e94eb83f707e78b650",
+        "android_client_info": {
+          "package_name": "com.example.tacir_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXlWcSvKNwX6wde6LsJKncvCEqsDhU3Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
